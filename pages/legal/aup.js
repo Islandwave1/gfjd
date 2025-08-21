@@ -1,0 +1,1 @@
+export default function Page() { return <div className='p-8'><h1>Acceptable Use Policy</h1><p>Users must comply with Canadian laws...</p></div> }

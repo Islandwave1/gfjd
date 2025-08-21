@@ -1,0 +1,1 @@
+export default function Page() { return <div className='p-8'><h1>Terms and Conditions for Canada</h1><p>IslandWave provides services under these terms...</p></div> }
